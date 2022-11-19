@@ -1,1 +1,9 @@
 # Work of git
+
+## Teams
+
+git init -инициализация репозитория
+
+git add -добавление файла
+
+git commit -m -сохранение изменений
