@@ -1,4 +1,4 @@
-## Git beginning
+## Git beginning. Commiting
 
 git init -инициализация репозитория
 
