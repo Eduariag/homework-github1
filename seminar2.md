@@ -1,7 +1,9 @@
 # Git branches
 
-## Branche creating
+## Branch creating
 
-## Branche merging
+* *git branch branch_name* -создание ветки *branch_name*
+
+## Branch merging
 
 ## Conflicts
